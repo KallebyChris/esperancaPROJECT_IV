@@ -1,3 +1,5 @@
+//JavaScript
+
 document.getElementById('botao').addEventListener('click', async () => {
   try {
     const response = await fetch('pagina.html');
@@ -36,4 +38,7 @@ function toggleMenu() {
   const navLinks = document.querySelector('.nav-links');
   navLinks.classList.toggle('active');
   console.log("Menu alternado:", navLinks.classList.contains('active') ? "aberto" : "fechado");
+}
+function alternarContraste() {
+  document.body.classList.toggle('alto-contraste');
 }

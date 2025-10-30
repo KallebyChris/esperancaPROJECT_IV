@@ -41,3 +41,8 @@ main p {
   display: flex;
 }
 
+.alto-contraste {
+  background-color: black;
+  color: yellow;
+}
+
