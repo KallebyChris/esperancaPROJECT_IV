@@ -1,7 +1,7 @@
-# 🌿 EsperançaPROJECT IV
+# 🌿 EsperançaPROJECT
 
 ## 🕊️ Descrição do Projeto
-O **EsperançaPROJECT IV** é um site voltado à divulgação de **projetos sociais e voluntariado**, com o objetivo de incentivar ações solidárias e conectar pessoas dispostas a ajudar.  
+O **EsperançaPROJECT** é um site voltado à divulgação de **projetos sociais e voluntariado**, com o objetivo de incentivar ações solidárias e conectar pessoas dispostas a ajudar.  
 A plataforma busca inspirar a esperança através de iniciativas que promovem o bem e a transformação social.
 
 ---
